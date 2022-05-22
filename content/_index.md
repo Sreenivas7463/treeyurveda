@@ -7,5 +7,5 @@ blurb: |-
 section:
   heading: Facebook Page
   text: |
-    https://www.facebook.com/SreekanthNatureLover/
+    [Treeyurveda FB Page](https://www.facebook.com/SreekanthNatureLover/)
 ---
